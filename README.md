@@ -1,1 +1,1 @@
-# new_app
+# updating application adding developer A story
