@@ -1,1 +1,1 @@
-# new_app
+Updating developer B story # Hangon!
